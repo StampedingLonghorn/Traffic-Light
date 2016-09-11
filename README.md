@@ -1,5 +1,12 @@
 #Traffic Light
-Displays a Raspberry Pi traffic light using GPIO ports and LEDs.
+Displays an American traffic light using the GPIO ports of a Raspberry Pi and LEDs.
+
+**Requirements** </br>
+[GPIOZero](https://gpiozero.readthedocs.io/en/v1.3.1/)
+Included in Raspbian.
+
+**There are plenty of traffic light tutorials. Why did I do this?** </br>
+Many tutorials are written for British audiences. This traffic light is Americanized with a flashing yellow left turn signal and a right turn signal.
 
 ###Breadboard Layout
 ![Breadboard Layout](https://github.com/StampedingLonghorn/Traffic-Light/blob/master/Traffic%20Light.png)
