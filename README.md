@@ -8,6 +8,9 @@ Included in Raspbian.
 **There are plenty of traffic light tutorials. Why did I do this?** </br>
 Many tutorials are written for British audiences. This traffic light is Americanized with a flashing yellow left turn signal and a right turn signal.
 
+**Video** </br>
+The video for this project can be found on [YouTube](https://youtu.be/-SS9GEyLIJk)
+
 ###Breadboard Layout
 ![Breadboard Layout](https://github.com/StampedingLonghorn/Traffic-Light/blob/master/Traffic%20Light.png)
 
